@@ -1,0 +1,10 @@
+button {
+  width: 45%;
+  height: 30%;
+  margin-top: 8%;
+position: absolute;
+background-color: Transparent;
+background-repeat:no-repeat;
+border: none;
+opacity: 1.5;  
+}
